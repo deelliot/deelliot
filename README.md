@@ -6,6 +6,7 @@
 - ⚡ In my free time I can be found climbing,baking or walking my dog
 - 📫 Let's get in touch on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/debbie-elliott-230678264/)
 
+<br>
 
 
 ### 🛠️ Languages and Tools :
@@ -15,6 +16,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal" width="40px" height="40px"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" title="Vim" alt="Vim" width="40px" height="40px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  
+  <br>
   
   ### :fire: My Stats:
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=deelliot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
