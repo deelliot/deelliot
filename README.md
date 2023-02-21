@@ -2,7 +2,7 @@
 
 - 🖥️ aspiring software engineer
 - 🐝 Member of 42 Network at [Hive Helsinki](https://www.hive.fi/en/) coding school.
-- 📜 Currently building a raytracer in C with my awesome team
+- 📜 Currently learning Kotlin for AndroidStudio
 - ⚡ In my free time I can be found climbing,baking or walking my dog
 - 📫 Let's get in touch on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/debbie-elliott-230678264/)
 
