@@ -1,6 +1,6 @@
 ### Hi there, I'm Debbie👋
 
-- 🖥️ aspiring software engineer
+- 🖥️ software engineer
 - 🐝 Member of 42 Network at [Hive Helsinki](https://www.hive.fi/en/) coding school.
 - 📜 Currently learning Kotlin for AndroidStudio
 - ⚡ In my free time I can be found climbing,baking or walking my dog
